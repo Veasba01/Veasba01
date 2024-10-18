@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+¡Hola! Soy Mauricio Arce Zúñiga, un apasionado programador de 23 años de Costa Rica con un fuerte deseo de aprender y destacar en el mundo del desarrollo de software. Estoy en mi último semestre de Ingeniería en Sistemas de la Información en la Universidad Nacional de Costa Rica, sede Nicoya.<br><br>Tengo experiencia desarrollando proyectos en diversas tecnologías, incluyendo .NET, PHP, Node.js, SQL Server y MySQL. También estoy familiarizado con el desarrollo front-end, utilizando herramientas modernas como React, Vite y TypeScript. He trabajado en proyectos innovadores como UNAlumni, una bolsa de empleo web para estudiantes de mi universidad, donde he adquirido valiosas habilidades en la creación de aplicaciones web completas y funcionales.<br><br>Me destaco por mi capacidad para resolver problemas, aprender rápidamente nuevas tecnologías y colaborar efectivamente en equipos de desarrollo. Estoy siempre en busca de nuevas oportunidades para crecer profesionalmente y contribuir con mi conocimiento a proyectos desafiantes e innovadores.<br><br>Si estás buscando un desarrollador motivado y con ganas de aprender, no dudes en contactarme. ¡Estoy listo para asumir nuevos retos y aportar al éxito de tu equipo!
 
-<!--
-**Veasba01/Veasba01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mauricio.arcezuniga) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mau0102) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Veasba01&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Veasba01&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Veasba01&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Veasba01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
